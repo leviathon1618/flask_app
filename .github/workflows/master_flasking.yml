@@ -30,4 +30,4 @@ jobs:
       with:
         app-name: 'flasking'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_051af0965afa47d1a299066aa72aeb4c }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_f7c9afc0c1b14861a9f827ab3bf5bb90 }}
